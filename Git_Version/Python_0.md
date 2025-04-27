@@ -1,1 +1,3 @@
 Python学习简介
+Python的来历
+python的应用
